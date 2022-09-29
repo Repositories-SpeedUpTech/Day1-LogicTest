@@ -1,0 +1,6 @@
+#ignore .idea
+.idea
+#ignore target
+target
+#ignore Repository-LogicTest.iml
+Repository-LogicTest.iml
